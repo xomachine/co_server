@@ -8,4 +8,6 @@ license       = "MIT"
 # Dependencies
 
 requires "nim >= 0.17.3"
+requires "nesm"
+requires "co_protocol"
 
