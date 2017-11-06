@@ -13,4 +13,5 @@ type
     ## The `answer` field is a procedure that allows to reply to the datagramm
     ## sender.
     sender: string
+    data: string
     answer: proc (data: string)
